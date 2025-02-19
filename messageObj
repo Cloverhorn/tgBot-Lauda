@@ -1,0 +1,60 @@
+# Сообщение с файлом
+{
+  message_id: 177,
+  from: {
+    id: 98239574,
+    is_bot: false,
+    first_name: 'Александр',
+    username: 'Cloverhorn',
+    language_code: 'ru'
+  },
+  chat: {
+    id: 98239574,
+    first_name: 'Александр',
+    username: 'Cloverhorn',
+    type: 'private'
+  },
+  date: 1739965586,
+  document: {
+    file_name: 'sample.pdf',
+    mime_type: 'application/pdf',
+    thumbnail: {
+      file_id: 'AAMCAgADGQEAA7FntcSRSkuNhgKV77pz5c1Q5JtaawAC0mEAAohSsEnivVgjSttz5AEAB20AAzYE',
+      file_unique_id: 'AQAD0mEAAohSsEly',
+      file_size: 21404,
+      width: 247,
+      height: 320
+    },
+    thumb: {
+      file_id: 'AAMCAgADGQEAA7FntcSRSkuNhgKV77pz5c1Q5JtaawAC0mEAAohSsEnivVgjSttz5AEAB20AAzYE',
+      file_unique_id: 'AQAD0mEAAohSsEly',
+      file_size: 21404,
+      width: 247,
+      height: 320
+    },
+    file_id: 'BQACAgIAAxkBAAOxZ7XEkUpLjYYCle-6c-XNUOSbWmsAAtJhAAKIUrBJ4r1YI0rbc-Q2BA',
+    file_unique_id: 'AgAD0mEAAohSsEk',
+    file_size: 18810
+  },
+  caption: 'Привет! Лови документ'
+}
+
+# Сообщение
+{
+  message_id: 178,
+  from: {
+    id: 98239574,
+    is_bot: false,
+    first_name: 'Александр',
+    username: 'Cloverhorn',
+    language_code: 'ru'
+  },
+  chat: {
+    id: 98239574,
+    first_name: 'Александр',
+    username: 'Cloverhorn',
+    type: 'private'
+  },
+  date: 1739965685,
+  text: '123'
+}
